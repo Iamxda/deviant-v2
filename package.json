@@ -1,13 +1,13 @@
 {
   "name": "Deviant's",
-  "version": "9.0.0",
-  "description": "VinnOfficial",
+  "version": "11.0.0",
+  "description": "Deviant'sCrash",
   "main": "index.js",
   "type": "commonjs",
   "scripts": {
     "start": "node index.js"
   },
-  "author": "DeviantForceX",
+  "author": "VinnModssXl",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
