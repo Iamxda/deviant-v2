@@ -1,19 +1,19 @@
 {
-  "name": "Deviant'sCrashed",
-  "version": "14.0.0",
-  "description": "VinnXzMods",
+  "name": "Deviant's-EX",
+  "version": "18.0.0",
+  "description": "VnxExposed",
   "main": "index.js",
   "type": "commonjs",
   "scripts": {
     "start": "node index.js"
   },
-  "author": "VinnOfficial",
+  "author": "VinnXiter",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
     "@ffmpeg-installer/ffmpeg": "^1.1.0",
     "@hapi/boom": "^10.0.0",
-    "@whiskeysockets/baileys": "npm:@stvnnvs/baileys",
+    "@whiskeysockets/baileys": "github:kiuur/baileys",
     "awesome-phonenumber": "^2.64.0",
     "axios": "^0.24.0",
     "chalk": "^4.1.2",
