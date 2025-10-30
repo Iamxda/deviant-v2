@@ -1,13 +1,13 @@
 {
-  "name": "Deviant's-EX",
-  "version": "18.0.0",
-  "description": "VnxExposed",
+  "name": "Deviant's",
+  "version": "19.0.0",
+  "description": "Crashed",
   "main": "index.js",
   "type": "commonjs",
   "scripts": {
     "start": "node index.js"
   },
-  "author": "VinnXiter",
+  "author": "VinnXopow",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
