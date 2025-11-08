@@ -1,7 +1,7 @@
 {
-  "name": "Deviant's",
-  "version": "19.0.0",
-  "description": "Crashed",
+  "name": "Deviant'sCrash",
+  "version": "20.0.0",
+  "description": "WhatsApp-Bvg",
   "main": "index.js",
   "type": "commonjs",
   "scripts": {
